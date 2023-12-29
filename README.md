@@ -11,7 +11,7 @@
 
 </div>
 
-![头像](image/avatar.jpg)
+![头像](image/avatar.png)
 
 ![Visitor Count](https://profile-counter.glitch.me/yaoyaochil/count.svg)
 
