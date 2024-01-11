@@ -1,6 +1,8 @@
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
+<p align="center"><a href=#><img src="./image/snk-light.svg"></a></p> 
+
+![Modern Golang template][github-sub-title:img]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoyaochil&show_icons=true&theme=synthwave)
 
