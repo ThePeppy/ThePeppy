@@ -13,8 +13,4 @@
 
 </div>
 
-![头像](image/header.png)
-
-![Visitor Count](https://profile-counter.glitch.me/ThePeppy/count.svg)
-
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Welcome+to+my+GitHub+Profile!;I'm+Peppy;Nice+to+meet+you!
