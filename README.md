@@ -4,8 +4,6 @@
 
 ![Modern Golang template][github-sub-title:img]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePeppy&show_icons=true)
-
 [![modern Golang](https://img.shields.io/badge/code-Modern%20Golang-blue)]() 
 ![](https://img.shields.io/badge/讨厌-考试-yellow) 
 ![](https://img.shields.io/badge/性格-慢热-red) 
