@@ -4,7 +4,7 @@
 
 ![Modern Golang template][github-sub-title:img]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoyaochil&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThePeppy&show_icons=true&theme=synthwave)
 
 [![modern Golang](https://img.shields.io/badge/code-Modern%20Golang-blue)]() 
 ![](https://img.shields.io/badge/讨厌-考试-yellow) 
@@ -15,6 +15,6 @@
 
 ![头像](image/header.png)
 
-![Visitor Count](https://profile-counter.glitch.me/yaoyaochil/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/ThePeppy/count.svg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Welcome+to+my+GitHub+Profile!;I'm+yaoyaochil;Nice+to+meet+you!
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Welcome+to+my+GitHub+Profile!;I'm+Peppy;Nice+to+meet+you!
