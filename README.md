@@ -14,7 +14,7 @@
 | **Class** | `Golang Specialist` |
 | **Traits** | `[Slow-to-warm-up]`, `[Money-Maker]`, `[Dislike-Exams]` |
 | **Weapon** | `Keyboard` |
-| **Status** | ![HP](https://progress-bar.dev/80/?title=HP&color=e96443) <br> ![MP](https://progress-bar.dev/100/?title=MP&color=904e95) |
+| **Status** | **HP** `████████░░` (80%) <br> **MP** `██████████` (100%) |
 
 </div>
 
